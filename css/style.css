@@ -3,7 +3,7 @@
 }
 
 body{
-	background-color:#FFFFFF;
+	background-color:#f4f4f4;
 	color:#555555;
 
 	font-family: Arial, Helvetica, sans-serif;
@@ -43,8 +43,9 @@ a:visited{
 }
 
 .container{
-	width:80%;
-	margin:auto;
+	
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 
@@ -58,6 +59,8 @@ a:visited{
 	border-bottom:5px red solid;*/
 
 	padding-top:20px;
+	padding-left: 70px;
+	padding-right: 80px;
 }
 
 .box-1 h1{
@@ -109,49 +112,3 @@ a:visited{
 	list-style-image: url('../images/check.png');
 
 }*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
