@@ -76,19 +76,20 @@ a:visited{
 	text-transform: uppercase;*/
 	letter-spacing: 0em;
 	word-spacing: 0em;
+
 }
 
 .box-1 h2{
 	font-family:Tahoma;
-	font-size: 22px;
-	color:#85C1E9;
+	font-size: 20px;
+	color:black;
 	border-top:20px;
 	border-bottom: 1px solid;
 	letter-spacing: 0em;
 	word-spacing: 0em;
 	margin:0px;
 	padding:0px;
-	margin-top:50px;
+	margin-top:20px;
 }
 
 .box-1 h3{
